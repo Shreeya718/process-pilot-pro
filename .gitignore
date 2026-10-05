@@ -1,0 +1,8 @@
+build/
+build-*/
+cmake-build-*/
+*.log
+.vscode/
+.idea/
+.cache/
+compile_commands.json
